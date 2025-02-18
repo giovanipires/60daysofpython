@@ -2,5 +2,6 @@
 
 - [X] Dia 1 - Olá mundo em Python.
 - [X] Dia 2 - Soma de dois número de duas formas diferentes.
-- [] Dia 3 -
+- [X] Dia 3 - Condicinal que verifica se um número é par o ímpar.
 - [] Dia 4 - 
+- [] Dia 5 -
