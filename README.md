@@ -15,4 +15,6 @@
 - [x] Dia 5 - Função que imprime o quadrado de um número
     - [x] Aula 6 - Strings
     - [x] Aula 6.1 - Strings - mão na massa
+    - [x] Aula 7 - Estruturas de controle
+    - [x] Aula 7.1 - Estruturas de controle - mão na massa
 - [] Dia 6 - ???

@@ -1,3 +1,4 @@
+#função simples que recebe um número e o transforma em seu quadrado
 def quadradoNum(numero):
     return numero ** 2
 
