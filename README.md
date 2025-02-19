@@ -12,6 +12,7 @@
 - [X] Dia 4 - Laço de repetição
     - [x] - Aula 5 - Variáveis e tipos de dados
     - [x] - Aula 5.1 - Variáveis e tipos de dados - mão na massa
-- [] Dia 5 - 
+- [x] Dia 5 - Função que imprime o quadrado de um número
     - [x] Aula 6 - Strings
     - [x] Aula 6.1 - Strings - mão na massa
+- [] Dia 6 - ???
