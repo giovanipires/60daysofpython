@@ -18,3 +18,9 @@
     - [x] Aula 7 - Estruturas de controle
     - [x] Aula 7.1 - Estruturas de controle - mão na massa
 - [] Dia 6 - ???
+    - [x] - Aula 8 - Funções
+    - [] - Aula 8.1 - Funções - mão na massa
+    - [] - Aula 9 - Listas
+    - [] - Aula 9.1 - Listas - mão na massa
+    - [] - Aula 10 - Dicionários
+    - [] - Aula 10.1 - Dicionários - mão na massa
