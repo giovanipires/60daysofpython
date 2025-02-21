@@ -22,6 +22,6 @@
     - [x] - Aula 8.1 - Funções - mão na massa
     - [x] - Aula 9 - Listas
     - [x] - Aula 9.1 - Listas - mão na massa
-- [] Dia 7 - ???
-    - [] - Aula 10 - Dicionários
-    - [] - Aula 10.1 - Dicionários - mão na massa
+- [X] Dia 7 - Dicionário dinâmico e estático
+    - [x] - Aula 10 - Dicionários
+    - [x] - Aula 10.1 - Dicionários - mão na massa
