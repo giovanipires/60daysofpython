@@ -10,3 +10,4 @@ print("Idade: ", aluno["Idade"])
 print("Curso: ", aluno["Curso"])
 print("Matrícula: ", aluno["Matrícula"])
 print(aluno)
+
