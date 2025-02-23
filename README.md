@@ -26,3 +26,4 @@
   - [x] - Aula 10 - Dicionários
   - [x] - Aula 10.1 - Dicionários - mão na massa
 - [x] Dia 8 - Condicional, verificando a idade do motorista
+- [x] Dia 9 - Contador personalizado
