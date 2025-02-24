@@ -1,7 +1,7 @@
 # 60 dias de Programação em Python
 
 - [x] Dia 1 - Olá mundo em Python.
-      Introdução ao Python
+  - [x] => Introdução ao Python
   - [x] Aula 1 - Instalando o Python
   - [x] Aula 1.1 - Instalando o Python no Windows
   - [x] Aula 1.2 - Instalando o VSCode
@@ -29,10 +29,10 @@
 - [x] Dia 8 - Condicional, verificando a idade do motorista
 - [x] Dia 9 - Contador personalizado
 - [x] Dia 10 - Gerador de senhas
-      Python Avançado
+  - [x] => Python Avançado
   - [x] - Aula 1 - Generators
   - [x] - Aula 1 - Generators - mão na massa
-      Git e Github
+  - [x] => Git e Github
   - [x] - Aula 1 - Explicação rápida
   - [] - Aula 1.1 - Mão na massa
   - [] - Aula 2 - Aprendendo sobre Git Revert
