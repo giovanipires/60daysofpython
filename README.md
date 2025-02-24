@@ -27,3 +27,5 @@
   - [x] - Aula 10.1 - Dicionários - mão na massa
 - [x] Dia 8 - Condicional, verificando a idade do motorista
 - [x] Dia 9 - Contador personalizado
+- [x] Dia 10 - Gerador de senhas
+  - [x] Generators

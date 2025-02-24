@@ -1,4 +1,4 @@
-"""Module providing a function printing python version."""
+"""Criando uma função de contador personalizado."""
 def contador_personalizado():
     """função para realizar uma contagem limitada"""
     try:
