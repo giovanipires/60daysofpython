@@ -29,10 +29,13 @@
 - [x] Dia 8 - Condicional, verificando a idade do motorista
 - [x] Dia 9 - Contador personalizado
 - [x] Dia 10 - Gerador de senhas
-  - [x] => Python Avançado
-  - [x] - Aula 1 - Generators
-  - [x] - Aula 1 - Generators - mão na massa
-  - [x] => Git e Github
-  - [x] - Aula 1 - Explicação rápida
-  - [] - Aula 1.1 - Mão na massa
-  - [] - Aula 2 - Aprendendo sobre Git Revert
+  - [x] - Python Avançado - Aula 1 - Generators
+  - [x] - Python Avançado - Aula 11.1 - Generators - mão na massa
+  - [x] - Git e Github - Aula 1 - Explicação rápida
+- [x] Dia 11 - Listas ordenadas, uso da função nativa sorted
+  - [x] - Python Avançado - Aula 2 - Decorators
+  - [x] - Python Avançado - Aula 2.1 -Decorators, mão na massa
+  - [x] - Git e Github - Aula 1.1 - Mão na massa
+- [] Dia 12 -
+  - - Python Avançado - Aula 3 - Trabalhando com arquivos
+  - [] - Git e Github - Aula 2 - Aprendendo sobre Git Revert
