@@ -39,3 +39,4 @@
 - [x] Dia 12 - Busca linear
   - [x] - Python Avançado - Aula 3 - Trabalhando com arquivos
   - [x] - Git e Github - Aula 2 - Aprendendo sobre Git Revert
+  - [x] - Exercícios sugeridos: Calculadora simples e conversor de temperatura.
