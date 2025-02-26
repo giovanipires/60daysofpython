@@ -36,6 +36,6 @@
   - [x] - Python Avançado - Aula 2 - Decorators
   - [x] - Python Avançado - Aula 2.1 -Decorators, mão na massa
   - [x] - Git e Github - Aula 1.1 - Mão na massa
-- [] Dia 12 -
-  - - Python Avançado - Aula 3 - Trabalhando com arquivos
-  - [] - Git e Github - Aula 2 - Aprendendo sobre Git Revert
+- [x] Dia 12 - Busca linear
+  - [x] - Python Avançado - Aula 3 - Trabalhando com arquivos
+  - [x] - Git e Github - Aula 2 - Aprendendo sobre Git Revert

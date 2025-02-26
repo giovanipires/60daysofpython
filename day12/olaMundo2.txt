@@ -1,0 +1,2 @@
+Olá novamente mundo Python
+ Continue a estudar, desafio dos 60 dias em Python.
