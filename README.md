@@ -40,3 +40,7 @@
   - [x] - Python Avançado - Aula 3 - Trabalhando com arquivos
   - [x] - Git e Github - Aula 2 - Aprendendo sobre Git Revert
   - [x] - Exercícios sugeridos: Calculadora simples e conversor de temperatura.
+- [x] Dia 13 - Função fatorial
+  - [x] - Python Avançado - Aula 4 Async
+  - [x] - Python Avançado - Aula 4.1 Async, mão na massa
+  - [x] - Exercícios sugeridos: Taboada
