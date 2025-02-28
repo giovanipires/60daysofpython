@@ -44,3 +44,7 @@
   - [x] - Python Avançado - Aula 4 Async
   - [x] - Python Avançado - Aula 4.1 Async, mão na massa
   - [x] - Exercícios sugeridos: Taboada
+- [x] Dia 14 - Verificador de números primos
+  - [x] - Docker, explicação rápida
+  - [x] - Garbage Collector, explicação rápida
+  - [x] - Exercícios sugeridos: Contador de vogais
