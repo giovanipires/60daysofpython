@@ -45,6 +45,12 @@
   - [x] - Python Avançado - Aula 4.1 Async, mão na massa
   - [x] - Exercícios sugeridos: Taboada
 - [x] Dia 14 - Verificador de números primos
-  - [x] - Docker, explicação rápida
-  - [x] - Garbage Collector, explicação rápida
+  - [x] - Python Avançado - Aula 5 Docker, explicação rápida
+  - [x] - Python Avançado - Aula 6 Garbage Collector, explicação rápida
   - [x] - Exercícios sugeridos: Contador de vogais
+  - [] Dia 15 - Fibonacci
+    - [x] - Python Avançado - Aula 6.1 Garbage Collector
+    - [x] - Python Avançado - Aula 7 Heap, explicação rápida
+  - [] Dia 16 - ???
+    - [] - Python Avançado - Aula 8 Metaclasses e manipulação de classes dinâmicas, explicação rápida
+    - [] - Python Avançado - Aula 9 Abstração base classes e os protocols. explicação rápida
