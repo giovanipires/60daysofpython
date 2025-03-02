@@ -48,7 +48,7 @@
   - [x] - Python Avançado - Aula 5 Docker, explicação rápida
   - [x] - Python Avançado - Aula 6 Garbage Collector, explicação rápida
   - [x] - Exercícios sugeridos: Contador de vogais
-  - [] Dia 15 - Fibonacci
+  - [x] Dia 15 - Fibonacci
     - [x] - Python Avançado - Aula 6.1 Garbage Collector
     - [x] - Python Avançado - Aula 7 Heap, explicação rápida
   - [] Dia 16 - ???
