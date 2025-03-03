@@ -51,6 +51,7 @@
   - [x] Dia 15 - Fibonacci
     - [x] - Python Avançado - Aula 6.1 Garbage Collector
     - [x] - Python Avançado - Aula 7 Heap, explicação rápida
-  - [] Dia 16 - ???
-    - [] - Python Avançado - Aula 8 Metaclasses e manipulação de classes dinâmicas, explicação rápida
-    - [] - Python Avançado - Aula 9 Abstração base classes e os protocols. explicação rápida
+  - [x] Dia 16 - Anagramas
+    - [x] - Python Avançado - Aula 8 Metaclasses e manipulação de classes dinâmicas, explicação rápida
+    - [x] - Python Avançado - Aula 9 Abstração base classes e os protocols. explicação rápida
+  - [] Dia 17 - ???
