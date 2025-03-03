@@ -1,4 +1,11 @@
 """Criando um anagrama"""
+print("Bem vinda ao verificador de anagramas")
+contexto_01 = input("Digite a primeira palavra: ")
+contexto_02 = input("Digite a segunda palavra: ")
+
+palavra1 = contexto_01
+palavra2 = contexto_02
+
 def anagrama(palavra1, palavra2):
     """_summary_
     Verifica se duas palavras são anagramas ou não
@@ -14,12 +21,5 @@ def anagrama(palavra1, palavra2):
     if sorted(palavra1) == sorted(palavra2):
         return f"Essas palavras, {palavra1} e {palavra2} são anagramas."
     return f"Essas palavras, {palavra1} e {palavra2} não são anagramas."
-
-print("Bem vinda ao verificador de anagramas")
-contexto_01 = input("Digite a primeira palavra: ")
-contexto_02 = input("Digite a segunda palavra: ")
-
-palavra1 = contexto_01
-palavra2 = contexto_02
 
 print(anagrama(palavra1, palavra2))

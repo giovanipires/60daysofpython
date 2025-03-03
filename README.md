@@ -54,4 +54,5 @@
   - [x] Dia 16 - Anagramas
     - [x] - Python Avançado - Aula 8 Metaclasses e manipulação de classes dinâmicas, explicação rápida
     - [x] - Python Avançado - Aula 9 Abstração base classes e os protocols. explicação rápida
-  - [] Dia 17 - ???
+  - [x] Dia 17 - Palíndromos
+    - [x] - Aula extra - Listas em Python
