@@ -56,3 +56,5 @@
     - [x] - Python Avançado - Aula 9 Abstração base classes e os protocols. explicação rápida
   - [x] Dia 17 - Palíndromos
     - [x] - Aula extra - Listas em Python
+  - [x] Dia 18 - Contabilizar palavras de uma string
+    - [x] - Exercícios sugeridos: Calculadora de IMC
