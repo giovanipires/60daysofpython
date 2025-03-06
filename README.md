@@ -60,4 +60,4 @@
     - [x] - Exercícios sugeridos: Calculadora de IMC
   - [x] Dia 19 - Calcular média de notas
     - [x] Introdução - Python para Hacking
-  
+  - [x] Dia 20 - Matriz transposta
