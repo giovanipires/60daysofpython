@@ -58,3 +58,6 @@
     - [x] - Aula extra - Listas em Python
   - [x] Dia 18 - Contabilizar palavras de uma string
     - [x] - Exercícios sugeridos: Calculadora de IMC
+  - [x] Dia 19 - Calcular média de notas
+    - [x] Introdução - Python para Hacking
+  
