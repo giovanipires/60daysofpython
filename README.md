@@ -62,3 +62,7 @@
     - [x] Introdução - Python para Hacking
   - [x] Dia 20 - Matriz transposta
     - [x] - Exercícios sugeridos: Lista de compras
+        [x] Dia 21 - Conversos de moeda simples
+    - [x] - Upgrade no conversor v2
+    - [x] - Upgrade no conversor v3, utilização de API, funcionamento apenas EURO
+    - [x] - Upgrade no conversor v4, utilização de API, manobrando a limitação do funcionamento apenas em EURO
