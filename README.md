@@ -62,7 +62,18 @@
     - [x] Introdução - Python para Hacking
   - [x] Dia 20 - Matriz transposta
     - [x] - Exercícios sugeridos: Lista de compras
-        [x] Dia 21 - Conversos de moeda simples
+  - [x] Dia 21 - Conversos de moeda simples
     - [x] - Upgrade no conversor v2
     - [x] - Upgrade no conversor v3, utilização de API, funcionamento apenas EURO
     - [x] - Upgrade no conversor v4, utilização de API, manobrando a limitação do funcionamento apenas em EURO
+  - [x] Dia 22 - Calculadora de IMC, feito como exercício no dia 18
+    - [x] Calculadora de IMC, versão 02 refatorando elif
+    - [x] Calculadora de IMC, versão 03 utilizando dicionário
+    - [x] Calculadora de IMC, versão 04 utilizando função
+    - [x] Calculadora de IMC, versão 05 utilizando match-case
+  - [x] Dia 23 - Jogo de adivinhação
+    - [x] - Jogo de advinhação, versão v2, refatoração
+    - [x] - Jogo de advinhação, versão v3, implementado o número de tentativas
+    - [x] - Jogo de advinhação, versão v4, implentado a interface gráfica com o PyQt5
+    - [x] - Python para Hacking - Aula 1 - Criando seu próprio Keylogger no Discord com Python
+    - [x] - Python para Hacking - Aula 2 - Criando seu analisador de vulnerabilidades com Python e Nuclei
