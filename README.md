@@ -77,3 +77,4 @@
     - [x] - Jogo de advinhação, versão v4, implentado a interface gráfica com o PyQt5
     - [x] - Python para Hacking - Aula 1 - Criando seu próprio Keylogger no Discord com Python
     - [x] - Python para Hacking - Aula 2 - Criando seu analisador de vulnerabilidades com Python e Nuclei
+  - [x] Dia 24 - Tabuada
