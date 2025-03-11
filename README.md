@@ -78,3 +78,5 @@
     - [x] - Python para Hacking - Aula 1 - Criando seu próprio Keylogger no Discord com Python
     - [x] - Python para Hacking - Aula 2 - Criando seu analisador de vulnerabilidades com Python e Nuclei
   - [x] Dia 24 - Tabuada
+  - [x] Dia 25 - Criamos um código que geramos 10 número aleatórios
+    - [x] - Python para Hacking - Aula 3 - Criando um Stealer com Python (Roubando Senhas Wi-Fi)
