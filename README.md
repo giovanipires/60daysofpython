@@ -80,3 +80,4 @@
   - [x] Dia 24 - Tabuada
   - [x] Dia 25 - Criamos um código que geramos 10 número aleatórios
     - [x] - Python para Hacking - Aula 3 - Criando um Stealer com Python (Roubando Senhas Wi-Fi)
+  - [x] Dia 26 - Criando uma função para escrever em TXT
