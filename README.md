@@ -82,3 +82,5 @@
     - [x] - Python para Hacking - Aula 3 - Criando um Stealer com Python (Roubando Senhas Wi-Fi)
   - [x] Dia 26 - Criando uma função para escrever em TXT
   - [x] Dia 27 - Criando um corversor de temperatura
+  - [x] Dia 28 - Criando um cronometro
+    - [x] - Upgrade no cronômetro, foram 10 versões no total.
