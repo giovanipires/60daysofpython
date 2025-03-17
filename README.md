@@ -83,6 +83,7 @@
   - [x] Dia 26 - Criando uma função para escrever em TXT
   - [x] Dia 27 - Criando um corversor de temperatura
   - [x] Dia 28 - Criando um cronometro
-    - [x] - Upgrade no cronômetro, foram 10 versões no total.
+    - [x] - Upgrade no cronômetro, foram 10 versões no total
   - [x] Dia 29 - Gerador de data e hora atual
     - [x] Dia 30 - Cronometro de 10 segundos
+    - [x] Dia 31 - Raiz quadrada com Math
