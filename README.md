@@ -89,3 +89,4 @@
     - [x] Dia 31 - Raiz quadrada com Math
     - [x] - Python para Hacking - Aula 4 - Criando um Antivírus Checking
   - [x] Dia 32 - Lançar dado de 1 a 6
+    - [x] - Jogo de dados, versão v2, refatoração implementado mais formatos.
