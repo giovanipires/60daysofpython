@@ -87,3 +87,5 @@
   - [x] Dia 29 - Gerador de data e hora atual
     - [x] Dia 30 - Cronometro de 10 segundos
     - [x] Dia 31 - Raiz quadrada com Math
+    - [x] - Python para Hacking - Aula 4 - Criando um Antivírus Checking
+  - [x] Dia 32 - Lançar dado de 1 a 6
