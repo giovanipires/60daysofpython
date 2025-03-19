@@ -91,3 +91,4 @@
   - [x] Dia 32 - Lançar dado de 1 a 6
     - [x] - Jogo de dados, versão v2, refatoração implementado mais formatos.
     - [x] - Jogo de dados, versão v3, refatoração da versão anterior, funções modularizadas, tratamento de exceções, loop de repetição e feedback melhorado.
+    - [x] Hardware Hacking - Aula 1 - Hardware Hacking - BAD USB - P4wnP1 ALOA com Raspberry PI Zero W
