@@ -93,3 +93,6 @@
     - [x] - Jogo de dados, versão v3, refatoração da versão anterior, funções modularizadas, tratamento de exceções, loop de repetição e feedback melhorado.
     - [x] Hardware Hacking - Aula 1 - Hardware Hacking - BAD USB - P4wnP1 ALOA com Raspberry PI Zero W
   - [x] Dia 33 - Criando uma função para realizar contagem de itens em uma lista com collections
+  - [x] Dia 34 - Json mani
+    - [x] Json mani_v2, refatorado com validação de dados, tratamento de erros adicionais e melhoria na documentação
+    - [x] Hardware Hacking - Aula 2 - Criando seu Captive Portal M5STACK
