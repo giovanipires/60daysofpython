@@ -96,3 +96,5 @@
   - [x] Dia 34 - Json mani
     - [x] Json mani_v2, refatorado com validação de dados, tratamento de erros adicionais e melhoria na documentação
     - [x] Hardware Hacking - Aula 2 - Criando seu Captive Portal M5STACK
+  - [x] Dia 35 - Aprendendo a utilizar a biblioteca requests.
+    - [x] Utilizando a biblioteca requests, translator e asyncio para já apresentar retorno traduzido.
