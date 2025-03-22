@@ -98,3 +98,4 @@
     - [x] Hardware Hacking - Aula 2 - Criando seu Captive Portal M5STACK
   - [x] Dia 35 - Aprendendo a utilizar a biblioteca requests.
     - [x] Utilizando a biblioteca requests, translator e asyncio para já apresentar retorno traduzido.
+  - [x] Dia 36 - Crawler com a biblioteca BeautifulSoup
