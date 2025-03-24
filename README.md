@@ -100,3 +100,4 @@
     - [x] Utilizando a biblioteca requests, translator e asyncio para já apresentar retorno traduzido.
   - [x] Dia 36 - Crawler com a biblioteca BeautifulSoup
   - [x] Dia 37 - Utilizando a biblioteca pandas
+  - [x] Dia 38 - Se conectando ao ChatGPT
