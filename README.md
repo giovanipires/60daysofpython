@@ -101,3 +101,5 @@
   - [x] Dia 36 - Crawler com a biblioteca BeautifulSoup
   - [x] Dia 37 - Utilizando a biblioteca pandas
   - [x] Dia 38 - Se conectando ao ChatGPT
+  - [x] Dia 39 - Gerando gráficos com bibliotecas como plotext, matplotlib e seaborn.
+    - [x] Hardware Hacking - Aula 3 - Criando seu próprio Pico Ducky WiFi com Raspberry Pi Pico W
