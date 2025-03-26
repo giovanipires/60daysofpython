@@ -103,3 +103,5 @@
   - [x] Dia 38 - Se conectando ao ChatGPT
   - [x] Dia 39 - Gerando gráficos com bibliotecas como plotext, matplotlib e seaborn.
     - [x] Hardware Hacking - Aula 3 - Criando seu próprio Pico Ducky WiFi com Raspberry Pi Pico W
+  - [x] Dia 40 - POO em Python
+    - [x] Hardware Hacking - Aula 4 - Criando o seu Pwnagotchi
