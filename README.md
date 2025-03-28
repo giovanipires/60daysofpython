@@ -105,3 +105,5 @@
     - [x] Hardware Hacking - Aula 3 - Criando seu próprio Pico Ducky WiFi com Raspberry Pi Pico W
   - [x] Dia 40 - POO em Python
     - [x] Hardware Hacking - Aula 4 - Criando o seu Pwnagotchi
+  - [x] Dia 41 - Herança em Python
+  
