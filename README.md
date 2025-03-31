@@ -110,4 +110,4 @@
     - [x] Hardware Hacking - Aula 5 - Fault Injection - Criando um EMP DEVICE caseiro com uma raquete de matar mosquito
   - [x] Dia 43 - Tratamento de erros.
   - [x] Dia 44 - Regex, utilizando a biblioteca re -[x] - Validadores de email, 4 versões criadas até a última com inclusão de tratamento de erros.
-  - [] Dia 45 - ???
+  - [x] Dia 45 - Multitarefas, bibliotecas threading e time
