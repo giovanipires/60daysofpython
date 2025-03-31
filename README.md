@@ -106,4 +106,6 @@
   - [x] Dia 40 - POO em Python
     - [x] Hardware Hacking - Aula 4 - Criando o seu Pwnagotchi
   - [x] Dia 41 - Herança em Python
-  
+  - [x] Dia 42 - Modulo OS em Python
+    - [x] Hardware Hacking - Aula 5 - Fault Injection - Criando um EMP DEVICE caseiro com uma raquete de matar mosquito
+  - [x] Dia 43 - Tratamento de erros.
