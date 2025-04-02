@@ -112,4 +112,5 @@
   - [x] Dia 44 - Regex, utilizando a biblioteca re -[x] - Validadores de email, 4 versões criadas até a última com inclusão de tratamento de erros.
   - [x] Dia 45 - Multi tarefas, bibliotecas threading e time
   - [x] Dia 46 - Cliente e Servidor
-    - [x]
+    - [x] Versão curso + versão com melhoramentos
+  - [x] Dia 47 - Medição de tempo com decorators
