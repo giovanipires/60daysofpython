@@ -114,3 +114,5 @@
   - [x] Dia 46 - Cliente e Servidor
     - [x] Versão curso + versão com melhoramentos
   - [x] Dia 47 - Medição de tempo com decorators
+    - [x] Hardware Hacking - AulaAula 6 - Criando o menor BAD USB do mundo (RP2040)
+  - [x] Dia 48 - Generator / yeld / for_in
