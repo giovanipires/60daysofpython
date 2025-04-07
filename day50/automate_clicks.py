@@ -1,9 +1,13 @@
-try:
-    import PyAutoGUI
-    print("PyAutoGUI está instalado! Versão:", PyAutoGUI.__version__)
-except ImportError:
-    print("PyAutoGUI NÃO está instalado.")
+#sudo apt-get install xvfb
+#xvfb-run python3.12 automate_clicks.py
+import pyautogui
+import time
 
-# posicao = pyautogui.position()
+print("Posicione o mouse na tela e espere 5 segundos ...")
+time.sleep(5)
 
-# print(posicao)
+
+x, y = pyautogui.position()
+pyautogui.click(x, y)
+print(f"Clicou na posição: {x}, {y}")
+
