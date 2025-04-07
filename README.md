@@ -117,3 +117,6 @@
     - [x] Hardware Hacking - AulaAula 6 - Criando o menor BAD USB do mundo (RP2040)
   - [x] Dia 48 - Generator / yeld / for_in
   - [x] Dia 49 - Criando uma conexão com sqlite e realizar CRUD
+  - [x] Dia 50 - Automate click com biblioteca python
+  - [x] Dia 51 - Realizando scraping com BeautifulSoup
+  - [x] Dia 52 - Criando gráficos com MatLotLib
