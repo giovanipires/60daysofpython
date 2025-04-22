@@ -120,3 +120,4 @@
   - [x] Dia 50 - Automate click com biblioteca python
   - [x] Dia 51 - Realizando scraping com BeautifulSoup
   - [x] Dia 52 - Criando gráficos com MatLotLib
+  - [x] Dia 53 - Utilizando OpenCV para Computer Vision
