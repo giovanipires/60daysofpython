@@ -1,5 +1,7 @@
 # 60 dias de Programação em Python
 
+<h2>Utilizando cursos do Ackerdemy & COD3R</h2>
+
 - [x] Dia 1 - Olá mundo em Python.
   - [x] => Introdução ao Python
   - [x] Aula 1 - Instalando o Python
@@ -121,3 +123,6 @@
   - [x] Dia 51 - Realizando scraping com BeautifulSoup
   - [x] Dia 52 - Criando gráficos com MatLotLib
   - [x] Dia 53 - Utilizando OpenCV para Computer Vision
+  - [x] Dia 54 - Vendo novamente estruturas de contole [COD3R]
+    - Utilizando a biblioteca colorama para mudar a cor do prompt
+  - [x] Dia 55 - Continuidade nas estruturas de controle [COD3R]
