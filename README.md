@@ -126,3 +126,4 @@
   - [x] Dia 54 - Vendo novamente estruturas de contole [COD3R]
     - Utilizando a biblioteca colorama para mudar a cor do prompt
   - [x] Dia 55 - Continuidade nas estruturas de controle [COD3R]
+  - [x] Dia 56 - Continuidade nas estruturas de controle [COD3R]
