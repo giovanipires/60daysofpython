@@ -11,7 +11,7 @@ def get_dia_semana(dia):
     return dias.get(dia, '** inválido **')
 
 if __name__ == '__main__':
-    for dia in range(1,8):
+    for dia in range(8):
         if dia > 1 and dia < 7:
             print(f'Dia útil: {dia} - {get_dia_semana(dia)}')
         else:
