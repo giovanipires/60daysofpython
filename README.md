@@ -128,3 +128,4 @@
   - [x] Dia 55 - Continuidade nas estruturas de controle [COD3R]
   - [x] Dia 56 - Continuidade nas estruturas de controle [COD3R]
   - [x] Dia 57 - Continuidade nas estruturas de controle, Match_Case e For_sem_else [COD3R]
+  - [x] Dia 58 - Continuidade nas estruturas de controle, projeto fibonacci [COD3R]
